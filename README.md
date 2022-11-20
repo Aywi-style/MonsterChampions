@@ -1,7 +1,14 @@
-# MonsterChampions
+# Monster Champions
+![Game icon](https://github.com/Aywi-style/MonsterChampions/raw/main/Media/icon.png)
 
-Женил сторонние ассеты моделей и анимаций с идеей мёрджа монстров одного типа, получая новую, сильную версию.
-Занимался проработкой баланса и искусственным интеллектом.
-Писал боевую систему. Работал с партиклами.
+*Duel with merge mechanics in the setting of Pokemon masters competitions.*
+[GooglePlay](https://play.google.com/store/apps/details?id=com.ZakiGames.MonsterChampions "Application page")
+
+I 've been working on game balance, artificial intelligence.
+Wrote combat systems. Worked with Particle Systems.
+Wrote tutorial, camera behavior. First used the pool system.
 Прорабатывал туториал. Работал над камерой. Впервые стал использовать пулы
-Записывал креативы.
+Created creatives.
+
+![Game poster](https://github.com/Aywi-style/MonsterChampions/raw/main/Media/img_1.png)
+![Gameplay_1](https://github.com/Aywi-style/MonsterChampions/raw/main/Media/img_2.png)
